@@ -1,0 +1,45 @@
+{
+    "type": "CARD",
+    "cornerRadius": 8,
+    "elevation": 2,
+    "allPadding": 4,
+    "startPadding": 8,
+    "endPadding": 8,
+    "topPadding": 4,
+    "bottomPadding": 4,
+    "width": 0,
+    "height": 0,
+    "children": [
+      {
+        "type": "ROW",
+        "children": [
+          {
+            "type": "COLUMN",
+            "children": [
+              {
+                "type": "TEXT",
+                "value": "",
+                "color": "#010203",
+                "size": 16
+              },
+              {
+                "type": "TEXT",
+                "value": "",
+                "color": "#8f898a",
+                "size": 14
+              }
+            ]
+          },
+          {
+            "type": "IMAGE",
+            "imageUrl": "",
+            "width": 80,
+            "height": 80,
+            "clip": "rounded",
+            "roundedCornerShape": 4,
+            "contentScale": "FillBounds"
+          }
+        ]
+      }
+    ]
+}

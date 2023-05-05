@@ -1,0 +1,24 @@
+{
+    "data": [
+      {
+        "type": "SCAFFOLD",
+        "top_bar": [
+          {
+            "type": "APP_BAR",
+            "children": [
+              {
+                "type": "TEXT",
+                "value": "News Articles"
+              }
+            ]
+          }
+        ],
+        "children": [
+          {
+            "type": "VERTICAL_LIST",
+            "children": []
+          }
+        ]
+      }
+    ]
+}
